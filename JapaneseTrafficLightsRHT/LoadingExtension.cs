@@ -15,7 +15,7 @@ namespace JapaneseTrafficLightsRHT
             }
 
 			var TL1 = PrefabCollection<PropInfo>.FindLoaded("810355214.JPTLpedRHT_Data");
-			var TL1m = PrefabCollection<PropInfo>.FindLoaded("810355214.JPTLped2RHT_Data");
+			var TL1m = PrefabCollection<PropInfo>.FindLoaded("810355214.JPTLmainRHT_Data");
 			var TL2 = PrefabCollection<PropInfo>.FindLoaded("810355214.JPTLmainRHT_Data");
 			var TL2m = PrefabCollection<PropInfo>.FindLoaded("810355214.JPTLpedRHT_Data");
 			var TLped = PrefabCollection<PropInfo>.FindLoaded("810355214.JPTLped2RHT_Data");
